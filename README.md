@@ -1,4 +1,4 @@
-Hi 👋, I'm Pulivendula Anjali
+Hi 👋, I'm Pulivendula Sushmanjali
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=AIML+Student;Aspiring+AI+Engineer;DSA+Enthusiast;Continuous+Learner+%F0%9F%9A%80" alt="Typing SVG" />
