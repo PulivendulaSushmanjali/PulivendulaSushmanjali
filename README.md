@@ -10,8 +10,6 @@ Hi 👋, I'm Pulivendula Sushmanjali
 
 🌱 Currently improving my Data Structures & Algorithms skills
 
-🏆 TS EAMCET Rank: 7687
-
 🎯 Actively participating in workshops, hackathons, and technical learning programs
 
 📚 Always exploring new technologies and building my technical foundation
